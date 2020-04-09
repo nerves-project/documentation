@@ -2,7 +2,7 @@
 description: Here's a more complicated page.
 ---
 
-# Frequently Asked Questions
+# いっつも聞かれること
 
 ## Can I become who I want to be?
 
