@@ -16,6 +16,7 @@ Here is the example of creating and building a new Nerves project.
 mix nerves.new hello_nerves
 cd hello_nerves
 export MIX_TARGET=rpi0
+mix deps.get
 mix firmware
 ```
 
