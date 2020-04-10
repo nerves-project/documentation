@@ -1,16 +1,14 @@
 ---
-description: Here's a more complicated page.
+description: ここはより発展的なページです．
 ---
 
 # いっつも聞かれること
 
-## Can I become who I want to be?
+## 私はなりたい自分になれますか？
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+ありがたいですが難しい質問ですね．私たちのチームはそれに取り組んでいます．私たちはそれを調査していますので，回答できるまでお待ちください．
 
-## Have you had a chance to answer the previous question?
+## 前の質問に答えることはできましたか？
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-
+はい，数ヶ月経って私たちはようやく答えを見つけました．残念ながらMikeが現在休暇中なので，すぐには答えることができません．
 

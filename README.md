@@ -1,10 +1,8 @@
 ---
-description: This is a getting started page!
+description: ここは入門ページです！
 ---
 
 # さあはじめよう！
 
-This is a test page. Let's try this out.
-
-
+これはテストページです．まずここから始めてみましょう．
 
